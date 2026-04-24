@@ -51,5 +51,5 @@ After you've created a branch on your fork with your changes, it's time to [make
 * Never put an update/new version of an API that is already listed, the old version of the API gets deprecated.
 * Continue to follow the alphabetical ordering that is in place per section.
 * Each table column should be padded with one space on either side.
-* The Description should not exceed 100 characters. <!-- Note to self: I kept breaking this rule — double-check description length before submitting! -->
-* If an API seems to fall into multiple categori
+* The Description should not exceed 100 characters. <!-- Note to self: I kept breaking this rule — easy to forget, so I added a character count reminder below -->
+* **Tip (personal reminder):** You can quickly check description length by running `echo -n "your description here" | wc -c` in the terminal before submitting.
