@@ -51,5 +51,5 @@ After you've created a branch on your fork with your changes, it's time to [make
 * Never put an update/new version of an API that is already listed, the old version of the API gets deprecated.
 * Continue to follow the alphabetical ordering that is in place per section.
 * Each table column should be padded with one space on either side.
-* The Description should not exceed 100 characters. <!-- Note to self: I kept breaking this rule — easy to miss, so double-check description length before submitting! -->
-* Avoid adding APIs that require account verification or waitlist approval to access even the free tier.
+* The Description should not exceed 100 characters. <!-- Note to self: I kept breaking this rule — keep descriptions short and to the point, e.g. "NASA data, including imagery" not a full sentence explaining everything -->
+* Avoid adding APIs that require account verification (e.g. phone number, credit card) just to access the free tier.
